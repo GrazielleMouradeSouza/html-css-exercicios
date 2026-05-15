@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'arial';
+}
+
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.container-principal {
+    width: 60%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+     margin-left: 10px;
+}
+
+
+#logo {
+    font-size: 80px;
+    margin: 20px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+
+#title {
+    font-size: 10px;
+    margin: 20px;
+}
+
+#title p {
+    font-size: 40px;
+    text-align: center;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: block;
+}
+
+#imagem-principal {
+   margin-left: 120px;
+}
+
+#imagem-principal img {
+    width: 600px;
+}
+
+.form-container {
+    width: 40%;
+    margin-top: 140px;
+    margin-left: 20px;
+}
+
+#infos-entrar,
+#infos-senha,
+#botao,
+#facebook {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+#infos-entrar input,
+#infos-senha input,
+#botao button {
+    border: 1px solid rgb(229, 228, 228);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+
+#botao button {
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+
+#botao button:hover {
+    cursor: pointer;
+    background-color: #6c5fff;
+}
+
+#esqueceu-a-senha {
+    width: 80%;
+    text-align: center;
+    padding: 15px;
+}
+
+#esqueceu-a-senha a {
+    text-decoration: none;
+    color: rgb(109, 107, 107);
+}
+
+#facebook,
+#conta {
+    text-align: center;
+    margin: 40px;
+}
+
+#facebook a {
+    position: relative;
+    text-decoration: none;
+    color: rgb(109, 107, 107);
+    border: 1px solid rgb(229, 228, 228);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#criar-nova a,
+#entrar-face a {
+    text-decoration: none;
+    color: rgb(109, 107, 107);
+    margin-left: 150px;
+}
+
+#criar-nova:hover,
+#entrar-face:hover {
+    cursor: pointer;
+    background-color: rgb(0, 0, 0, 0.05);
+}
+
+#criar-nova a {
+    text-decoration: none;
+    color: blue;
+}
+
+#entrar-face {
+    display: flex;
+    width: 500px;
+    border: 1px solid rgb(229, 228, 228);
+    border-radius: 25px;
+    padding: 15px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 40px;
+}
+
+#criar-nova {
+    display: flex;
+    width: 500px;
+    border: 1px solid blue;
+    border-radius: 25px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+
+#entrar-face i {
+    color: blue;
+    position: absolute;
+    top: 57.50%;
+    left: 1080px;
+}
+
+.divisor {
+   border-left: 2px solid rgb(246, 240, 240);
+    margin: 0 20px;
+}
+
+#meta {
+    width: 85%;
+    text-align: center;
+    padding: 20px;
+}
+
+#meta i {
+    color: blue;
+}
+
+hr {
+    border: 1px solid;
+    color: rgb(246, 240, 240);
+}
+
+footer {
+    width: 100%;
+    font-size: 15px;
+}
+
+footer a {
+    color: rgb(109, 107, 107);
+    text-decoration: none;
+}
+
+footer ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#idioma {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    color: rgb(109, 107, 107);
+    border: none;
+}

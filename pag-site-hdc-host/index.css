@@ -1,0 +1,410 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+}
+
+.primeiro {
+    background: rgb(24, 24, 45);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+}
+
+.segundo {
+    position: relative;
+    width: 100%;
+}
+
+.texto {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white;
+    text-align: center;
+}
+
+.t-1 {
+    font-size: 40px;
+}
+
+.t-2 {
+    font-size: 25px;
+}
+
+.ações {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.ações a {
+    color: white;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: green;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+
+.img-1 {
+    width: 40px;
+    margin: 10px;
+}
+
+.img-2 {
+    width: 100%;
+    height: 400px;
+}
+
+
+.icon-1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.icons i {
+    font-size: 40px;
+    color: green;
+}
+
+
+.icon-2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.icon-2 i {
+    font-size: 40px;
+    color: red;
+}
+
+
+.icon-3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.icon-3 i {
+    font-size: 40px;
+    color: orange;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 40px;
+}
+
+.desc {
+    color: rgb(90, 93, 93);
+}
+
+.title {
+    padding: 10px;
+}
+
+hr {
+    border: none;
+    color: rgb(90, 93, 93);
+}
+
+.p-title {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+
+.sub {
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: rgb(90, 93, 93);
+}
+
+
+
+.planos {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 80px;
+    flex-direction: column;
+    margin: 70px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card,
+.card-2,
+.card-3,
+.card-4 {
+    width: 240px;
+    background: #eee;
+    text-align: center;
+    position: relative;
+}
+
+.card {
+    width: 300px;
+    background: #eee;
+    text-align: center;
+    position: relative;
+}
+
+.card-2 {
+    width: 300px;
+    background: #eee;
+    text-align: center;
+    position: relative;
+}
+
+
+.card-3 {
+    width: 300px;
+    background: #eee;
+    text-align: center;
+    position: relative;
+}
+
+
+.card-4 {
+    width: 300px;
+    background: #eee;
+    text-align: center;
+    position: relative;
+}
+
+
+.titulo {
+    background: #1f2b34;
+    color: white;
+    padding: 30px;
+    font-weight: bold;
+
+}
+
+.conteudo {
+    padding: 10px;
+}
+
+.conteudo p {
+    padding: 20px;
+}
+
+.botao {
+    background: #2ecc71;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.botao-3 {
+    background: #cc4e2e;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.preco,
+.preco-2,
+.preco-4 {
+    width: 120px;
+    height: 120px;
+    background: #2ecc71;
+    border-radius: 50%;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.preco-3 {
+    width: 120px;
+    height: 120px;
+    background: #cc2e2e;
+    border-radius: 50%;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.preco,
+.preco-2,
+.preco-3,
+.preco-4 {
+    top: -90px;
+}
+
+.dominio {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(24, 24, 45);
+    padding: 40px;
+}
+
+label {
+    font-size: 40px;
+}
+
+.nome-2 {
+    font-size: 0px;
+    color: rgb(186, 202, 202);
+}
+
+.dominio label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.caixa {
+    width: 750px;
+    height: 60px;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.caixa-2 {
+    background: green;
+    font-size: 15px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 20px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.ultima p {
+    font-size: 20px;
+    color: rgb(90, 93, 93);
+}
+
+.ultima {
+    text-align: center;
+    margin: 80px;
+}
+
+.ultima-caixa {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px;
+    
+}
+
+.descreva {
+    display: flex;
+    justify-content: center;
+}
+
+textarea {
+    width: 500px;   
+    height: 100px;  
+    margin-top: -60px;
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+}
+
+.butaun {
+    display: block;
+    margin: 20px auto;
+}
+
+
+.butaun {
+    background: green;
+    font-size: 15px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.fim {
+    text-align: center;
+    margin: 80px;
+}
+
+@media (max-width: 768px) {
+
+    .ações {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .icons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .caixa {
+        width: 90%;
+    }
+
+    textarea {
+        width: 90%;
+    }
+}

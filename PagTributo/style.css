@@ -1,0 +1,105 @@
+  body {  /* Estilo geral da página*/
+    font-family: Arial, sans-serif;  /*Define a fonte padrão de todo o site */
+    background-color: #f4f4f4;  /*Cor de fundo da página */
+    line-height: 1.6; /* Espaçamento entre as linhas e textos */
+}
+
+.container {  /* Container príncipal */
+    width: 80%;  /*Largura do conteúdo */
+    margin: 40px auto;  /*Margem que centraliza o container e cria espaço em cima e embaixo */
+    background-color: white;  /*Cor de fundo do conteúdo */
+    padding: 10px 50px;  /* Espaçamento interno (Laterais e top bottom*/
+    
+}
+
+.header {  /* Cabeçalho */
+    text-align: center;  /* centraliza i título e o parágrafo */
+}
+
+ .header h1 {  
+            margin-bottom: 10px;  /*Espaço abaixo do título principal */
+        }
+
+.header p { 
+            font-style: italic;  /* Define a fonte*/
+            color: #555;  /* Define a cor*/
+        }
+
+
+.main-paragraphy {   /*Parágrafo principal */
+    font-style: italic;  /*Define a fonte do texto da descrição */
+}
+
+.featured-image {   /*Imagem em destaque */
+    text-align: center;  /* Centraliza a imagem*/
+    margin: 20px 0;  /*Espaço acima e abixo da imagem */
+}
+
+
+.figcaption {   /*Legenda da imagem */
+    font-size: 14px;  /* Tamanho da fonte da legenda*/
+    color: #888383;  /*Cor da legenda */
+    margin-top: 5px;   /* Espaço acima da legenda*/
+}
+
+
+.biography-container,
+.curiosities-container,   /*Seções de conteúdo */
+.info {
+    margin: 30px 0;   /*Espaço entre as seções */
+}
+
+.quotes-container {   /*Container da citação*/
+    background-color: #eee;  /* Cor de fundo*/
+    padding: 15px;  /*Espaçamento interno */
+    margin: 30px 0;  /* Espaço externo*/
+    font-style: normal;  /*Garante que o texto fique com fonte normal*/
+}
+
+
+blockquote p {   /*Texto da citação*/
+    font-size: 20px;   /*Fonte maior para destaque */
+    text-align: left;   /*Alinhamento a esquerda */
+    font-weight: bold;   /*Texto em negrito*/
+}
+
+blockquote p:last-child {  /*Parágrafo do autor */
+    text-align: left;   /*Mantém alinhado a esquerda */
+    font-weight: normal;   /*Remove o negrito*/
+}
+
+.highlight {  /*Texto destacado*/
+     background-color: #c5c1c1;  /* Cor do fundo */
+     display: inline;  /*Faz o fundo envolver só o texto */
+     padding: 6px 8px;  /*Espaço interno do destaque */
+    line-height: 1.9;  /*Altura da linha */
+    font-style: normal;  /*Remove o itálico */
+  
+ }
+
+.author { 
+    font-size: 14px;  
+    font-weight: normal;  
+    color: #636161; 
+}
+      
+.linha-foto {  /*Linha separadora */
+    height: 0px;   /*Altura */
+    border-top: 2px dashed #d8d1d1;  /* Linha tracejada*/
+    margin: 20px 0;  /* Espaço acima e abaixo*/
+    background-color: transparent;  /* Cor de fundo */
+}
+
+.featured-image h3{
+    text-align: left; /*Alinha o título a esquerda */
+}
+
+.featured-image p{
+    text-align: left;  /* Alinha o parágrafo a esquerda*/
+}
+
+.featured-image img {
+    width: 100%;  /*Imagem ocupando o container, define a largura*/
+    max-width: 800px;  /*Limita o tamanho máximo */
+    height: auto;  /* Mantém a proporção da imagem*/
+}

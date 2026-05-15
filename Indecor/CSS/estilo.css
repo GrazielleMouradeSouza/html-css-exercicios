@@ -1,0 +1,346 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'arial';
+}
+
+.container {
+    width: 100%;
+    position: relative;
+}
+
+#banner {
+    width: 100%;
+    height: 600px;
+    background-image: radial-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+        url(../IMG/hrz-5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#primeira {
+    position: absolute;
+    top: 0;
+    left: 10%;
+}
+
+#title {
+    color: rgb(50, 156, 206);
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-weight: bold;
+}
+
+#frase p {
+    font-size: 40px;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#data {
+    margin-top: 120px;
+}
+
+#data p {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.data-do-evento {
+    color: white;
+}
+
+.paragrafo {
+    color: rgb(50, 156, 206);
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(156, 155, 155);
+    width: 30%;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    left: 60%;
+    margin-top: 0;
+}
+
+.form-container input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.form-container select {
+    margin-left: 20px;
+}
+
+.form-container h1 {
+    padding: 20px;
+}
+
+.form-container input,
+.form-container select {
+    width: 400px;
+    padding: 15px;
+}
+
+.form-container label {
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#btn-form button {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(50, 156, 206);
+    margin-left: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+#selecione {
+    border-radius: 10px;
+    width: 400px;
+    margin-left: 10px;
+}
+
+
+#aprender h2 {
+    background-color:rgb(156, 155, 155);
+    padding: 60px;
+    text-align: center;
+}
+
+.container-dois {
+    width: 100%;
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.container-dois img {
+    width: 70%;
+    border-radius: 50%;
+    margin-top: 60px;
+    height: 280px;
+    margin-left: 180px;
+}
+
+.container-dois p {
+    color: rgb(164, 162, 162);
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+
+.container-tres h3 {
+    color: rgb(50, 156, 206);
+}
+
+
+#frase-tres {
+    position: absolute;
+    top: 38%;
+    left: 60%;
+}
+
+.local {
+    color: rgb(50, 156, 206);
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+#texto-cont-tres {
+    color: white;
+    margin-top: 120px;
+}
+
+#endereço {
+    position: absolute;
+    top: 38%;
+    left: 30%;
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+    font-size: 25px;
+}
+
+#endereço p {
+    padding: 10px;
+}
+
+#icone {
+    position: absolute;
+    top: 39%;
+    left: 25%;
+    margin-top: 150px;
+    font-size: 60px;
+    color: rgb(50, 156, 206);
+}
+
+#imagem-tres {
+    width: 100%;
+    height: 500px;
+    background-image: radial-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+        url(../IMG/hrz-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+.container-quatro {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-quatro img {
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 150px;
+    height: 300px;
+}
+
+#parte-um {
+    display: flex;
+}
+
+#frase-cont-quatro {
+    margin-top: 50px;
+    font-size: 60px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#frase-cont-quatro p {
+    padding: 15px;
+    font-weight: bold;
+}
+
+
+#parte-dois {
+    display: flex;
+}
+
+#parte-dois img {
+    margin-left: 330px;
+    margin-top: 30px;
+}
+
+#texto {
+    margin-left: 200px;
+}
+
+#parte-dois h5 {
+    font-size: 30px;
+    padding: 20px;
+}
+
+#parte-dois ul {
+    font-size: 18px;
+}
+
+#parte-dois li {
+    padding: 10px;
+}
+
+#parte-tres {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+#parte-tres h6 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+#parte-tres li {
+    padding: 10px;
+}
+
+#parte-tres ul {
+    font-size: 18px;
+}
+
+#texto-tres {
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+#ultima-img {
+    width: 100%;
+    height: 300px;
+    background: radial-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+        url(../IMG/hrz-6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container-cinco {
+    position: relative;
+}
+
+.container-cinco p {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 40px;
+    color: white;
+}
+
+#btn-inscreva {
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    margin-top: 15px;
+}
+
+#btn-inscreva button {
+    width: 500px;
+    padding: 20px;
+    background-color: rgb(50, 156, 206);
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+footer p {
+    padding: 15px;
+}
+
+#indecor {
+    font-size: 30px;
+    color: gray;
+}
+
+.evolução {
+    color: rgb(186, 182, 182);
+}
+
+span {
+    font-weight: bold;
+}
