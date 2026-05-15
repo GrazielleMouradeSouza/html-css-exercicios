@@ -1,1 +1,74 @@
-# html-css-exercicios
+# 🚀 Repositório de Estudos em Desenvolvimento Web
+
+Este repositório reúne meus projetos de aprendizado em desenvolvimento web, organizados em dois níveis:
+
+- 🌱 Projetos iniciais (HTML e CSS)
+- ⚡ Projetos intermediários com JavaScript
+
+O objetivo é demonstrar minha evolução prática durante o estudo da área de Tecnologia da Informação.
+
+---
+
+## 🌱 Projetos Iniciais (HTML + CSS)
+
+### 🌐 Indecor
+Projeto de site institucional com foco em estrutura e estilização.
+👉 Acesse: https://GrazielleMouradeSouza.github.io/Indecor/
+
+---
+
+### 📄 PagTributo
+Página de tributo desenvolvida com HTML e CSS.
+👉 Acesse: https://GrazielleMouradeSouza.github.io/PagTributo/
+
+---
+
+### 📝 Blog
+Projeto de blog básico com estrutura de posts.
+👉 Acesse: https://GrazielleMouradeSouza.github.io/blog/
+
+---
+
+### 🖥️ Pag Site HDC Host
+Página inspirada em serviços de hospedagem.
+👉 Acesse: https://GrazielleMouradeSouza.github.io/pag-site-hdc-host/
+
+---
+
+### 📸 Site Instagram
+Clone de interface inspirado no Instagram.
+👉 Acesse: https://GrazielleMouradeSouza.github.io/site-instagram/
+
+---
+
+## ⚡ Projetos com JavaScript (em evolução)
+
+Nesta etapa estou desenvolvendo projetos com foco em:
+
+- Lógica de programação
+- Manipulação do DOM
+- Interatividade com JavaScript
+
+> Esses projetos estão em desenvolvimento e representam minha evolução para nível intermediário.
+
+---
+
+## 🧠 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git e GitHub  
+
+---
+
+## 🎯 Objetivo
+
+Este repositório não é um portfólio final, mas sim um **registro de evolução de aprendizado**, mostrando meu progresso do nível básico ao intermediário em desenvolvimento web.
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/GrazielleMouradeSouza
+- LinkedIn: (adicione aqui)
