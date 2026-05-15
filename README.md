@@ -11,11 +11,7 @@ O objetivo é demonstrar minha evolução prática durante o estudo da área de 
 
 ## 🌱 Projetos Iniciais (HTML + CSS)
 
-### 🌐 Indecor
-Projeto de site institucional com foco em estrutura e estilização.
-👉 Acesse: https://GrazielleMouradeSouza.github.io/Indecor/
 
----
 
 ### 📄 PagTributo
 Página de tributo desenvolvida com HTML e CSS.
@@ -28,6 +24,13 @@ Projeto de blog básico com estrutura de posts.
 👉 Acesse: https://GrazielleMouradeSouza.github.io/blog/
 
 ---
+
+### 🌐 Indecor
+Projeto de site institucional com foco em estrutura e estilização.
+👉 Acesse: https://GrazielleMouradeSouza.github.io/Indecor/
+
+---
+
 
 ### 🖥️ Pag Site HDC Host
 Página inspirada em serviços de hospedagem.
