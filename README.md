@@ -20,7 +20,7 @@ Projeto de blog básico com estrutura de posts.  Acesse: https://graziellemourad
 Projeto de site institucional com foco em estrutura e estilização.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/Indecor/
 
 ####  Site de decoração HdcHost
-Projeto de site de decoração de imóvel, visando aprender a estitilzar sites mais modernos.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/pag-site-hdc-host/
+Projeto de site para impulsionar outros sites, visando aprender a estitilzar sites mais modernos.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/pag-site-hdc-host/
 
 ####  Site Instagram
 Projeto de site do instagram.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/site-instagram/
@@ -52,7 +52,3 @@ Este repositório não é um portfólio final, mas sim um **registro de evoluç�
 
 ---
 
-## Contato
-
-- GitHub: https://github.com/GrazielleMouradeSouza
-- LinkedIn: (adicione aqui)
