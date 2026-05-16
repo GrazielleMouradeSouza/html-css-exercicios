@@ -1,50 +1,25 @@
-# 🚀 Repositório de Estudos em Desenvolvimento Web
+#  Repositório de Estudos em Desenvolvimento Web
 
 Este repositório reúne meus projetos de aprendizado em desenvolvimento web, organizados em dois níveis:
 
-- 🌱 Projetos iniciais (HTML e CSS)
-- ⚡ Projetos intermediários com JavaScript
+-  Projetos iniciais (HTML e CSS)
+-  Projetos intermediários com JavaScript
 
 O objetivo é demonstrar minha evolução prática durante o estudo da área de Tecnologia da Informação.
 
 ---
+###  Projetos Iniciais (HTML + CSS)
 
-## 🌱 Projetos Iniciais (HTML + CSS)
+####  PagTributo
+Página de tributo desenvolvida com HTML e CSS.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/PagTributo/
 
+####  Blog
+Projeto de blog básico com estrutura de posts.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/blog/
 
+####  Indecor
+Projeto de site institucional com foco em estrutura e estilização.  Acesse: https://graziellemouradesouza.github.io/html-css-exercicios/Indecor/
 
-### 📄 PagTributo
-Página de tributo desenvolvida com HTML e CSS.
-👉 Acesse: https://GrazielleMouradeSouza.github.io/PagTributo/
-
----
-
-### 📝 Blog
-Projeto de blog básico com estrutura de posts.
-👉 Acesse: https://GrazielleMouradeSouza.github.io/blog/
-
----
-
-### 🌐 Indecor
-Projeto de site institucional com foco em estrutura e estilização.
-👉 Acesse: https://GrazielleMouradeSouza.github.io/Indecor/
-
----
-
-
-### 🖥️ Pag Site HDC Host
-Página inspirada em serviços de hospedagem.
-👉 Acesse: https://GrazielleMouradeSouza.github.io/pag-site-hdc-host/
-
----
-
-### 📸 Site Instagram
-Clone de interface inspirado no Instagram.
-👉 Acesse: https://GrazielleMouradeSouza.github.io/site-instagram/
-
----
-
-## ⚡ Projetos com JavaScript (em evolução)
+##  Projetos com JavaScript (em evolução)
 
 Nesta etapa estou desenvolvendo projetos com foco em:
 
@@ -56,7 +31,7 @@ Nesta etapa estou desenvolvendo projetos com foco em:
 
 ---
 
-## 🧠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
@@ -65,13 +40,13 @@ Nesta etapa estou desenvolvendo projetos com foco em:
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este repositório não é um portfólio final, mas sim um **registro de evolução de aprendizado**, mostrando meu progresso do nível básico ao intermediário em desenvolvimento web.
 
 ---
 
-## 📫 Contato
+## Contato
 
 - GitHub: https://github.com/GrazielleMouradeSouza
 - LinkedIn: (adicione aqui)
